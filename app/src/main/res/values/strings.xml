@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecoverDroid</string>
+    <string name="action_settings">Exit</string>
+    <string name="title_activity_address__display">Address</string>
+</resources>
